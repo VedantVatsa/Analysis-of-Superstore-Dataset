@@ -1,6 +1,6 @@
 # Analysis-of-Superstore-Dataset
 
-Sure, here is a README for this analysis of the Superstore dataset project:
+
 
 Project Overview
 
